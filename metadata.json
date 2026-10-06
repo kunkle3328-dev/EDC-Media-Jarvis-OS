@@ -1,0 +1,6 @@
+{
+  "name": "EDC Media J.A.R.V.I.S. Executive OS",
+  "description": "Full-duplex Gemini Live 3.8 voice operating system with real-time VAD, instant barge-in, premium human voice personas, and autonomous business command for EDC Media.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
